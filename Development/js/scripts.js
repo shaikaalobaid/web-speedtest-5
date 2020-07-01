@@ -12,3 +12,4 @@ let instructor = {
 console.log("menawer")
 console.log("javascript")
 console.log("careless10")
+instructor["sayHello"]();
